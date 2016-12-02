@@ -21,15 +21,15 @@ avatar: https://raw.githubusercontent.com/sjfighter/sjfighter.github.io/master/i
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:sjfighter@nate.com
-  facebook:sjfighter
-  flickr:sjfighter
+  email: sjfighter@nate.com
+  facebook: sjfighter
+  flickr: sjfighter
   github: sjfighter
-  instagram:sjfighter
+  instagram: sjfighter
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: 
+  twitter: sjfighter
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
